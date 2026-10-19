@@ -1,9 +1,8 @@
 ### Hi, I'm André 👋
 
-I run a small software studio ([Outsmartis](https://outsmart.is)) in Portugal, and most of my
-day now is steering AI coding agents: a dozen or so at once, spread over my laptop and a
-server. These are the open-source tools I built to make that workable. They fit together
-as one stack, from the desk to the phone.
+I'm a software developer in Portugal, and most of my day now is steering AI coding agents:
+a dozen or so at once, spread over my laptop and a server. These are the open-source tools
+I built to make that workable. They fit together as one stack, from the desk to the phone.
 
 #### 🐑 Run agents across machines
 
